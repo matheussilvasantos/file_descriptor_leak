@@ -1,1 +1,2 @@
 config/elastic_apm.yml
+vendor/
